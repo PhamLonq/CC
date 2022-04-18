@@ -2,7 +2,7 @@
 <body>
     <header class="header">
         <div class="logo">
-            <a href="wwwww.php"> <img  src="image1/logo.png" alt=""></a>
+            <a href="wwwww.php"> <img  src="images/logo1.jpg" alt=""></a>
         </div>
          <div class="menu">
             <li><a href="wwwww.php">MAIN PAGE</a>

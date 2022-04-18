@@ -11,10 +11,10 @@
 <body>
     <header class="header">
         <div class="logo">
-            <a href="wwwww.php"> <img  src="images/logo.png" alt=""></a>
+            <a href="index.php"> <img  src="images/logo1.jpg" alt=""></a>
         </div>
          <div class="menu">
-            <li><a href="wwwww.php">MAIN PAGE</a>
+            <li><a href="imdex.php">MAIN PAGE</a>
             <li><a href="">BILLBOARD</a></li>
             <li><a href="login.php">LOG OUT</a></li>
         </div>
